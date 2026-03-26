@@ -1,4 +1,4 @@
-# OSINT Cinetic
+# OSYNTH
 
 A generative sound installation that transforms global military events into real-time sound.
 
